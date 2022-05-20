@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...God,fam,crypto,coding...
 - 🌱 I’m currently learning ...javascript/solidity,blockchain
 - 💞️ I’m looking to collaborate on ... just eager to learn.
-- 📫 How to reach me ...github
+- 📫 How to reach me ...github,twitter @omega_jacrypto
 - 
 
 <!---
