@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @1980DIGITAL
-- 👀 I’m interested in ...GOD,fam,crypto,coding...
-- 🌱 I’m currently learning ...javascript/solidity,blockchain
+- 👋 Hi, I’m  Ja DIGITAL
+- 👀 I’m interested in ...GOD,family,crypto currencys,blockchain,defi
+- 🌱 I’m currently learning, blockchain development,web3,tokenizing.
 - 💞️ I’m looking to collaborate on ideas and projects.
 - 📫 How to reach me ...github
 - 
