@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Ja DIGITAL
-- 👀 I’m interested in ...GOD, family, crypto currencys, blockchain,defi
-- 🌱 I’m currently learning, blockchain development, web3,tokenizing.
+- 👀 I’m interested in ... crypto currencys, blockchain.
+- 🌱 I’m currently learning, blockchain.
 - 💞️ I’m looking to collaborate on ideas and projects.
 - 📫 How to reach me ...github, twitter, IG
 - 
