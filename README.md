@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Ja DIGITAL.. 
-- 👀 I’m interested in .. Blockchain technology and AI
+- 👀 I’m interested in .. Blockchain technology and A.I
 - 🌱 I’m currently learning, blockchain.
 - 💞️ I’m looking to collaborate on ideas and projects.
 - 📫 How to reach me ...github, twitter, IG
