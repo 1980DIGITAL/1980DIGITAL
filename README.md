@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Ja DIGITAL. love GOD my wife and kids!
+- 👋 Hi, I’m  Ja DIGITAL.. 
 - 👀 I’m interested in .. Blockchain technology and AI
 - 🌱 I’m currently learning, blockchain.
 - 💞️ I’m looking to collaborate on ideas and projects.
